@@ -47,8 +47,8 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                                                                                                                                    |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie 10 headlines para nomes de artigos sobre o assunto IA etica e perigos                                                                                                                                                                                                     |
+| conteúdo | baseado no titulo "O Quanto é Demais? Explorando os Limites Éticos da Inteligência Artificial", escrevo de um artigo pra uma revista de tecnologia, com uma temática menos formal |
 
 
 Lexica.art：
