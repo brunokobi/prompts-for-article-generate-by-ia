@@ -1,4 +1,6 @@
-# O Quanto é Demais? Explorando os Limites Éticos da Inteligência Artificial
+<img src="ai1.webp" alt="Descrição da imagem" style="width: 100%; height: 450px;">
+
+# <span style="font-size: 6px less;">O Quanto é Demais? Explorando os Limites Éticos da Inteligência Artificial</span>
 
 **🤖 Introdução:**
 
@@ -19,3 +21,5 @@ E se eu te dissesse que a IA pode até influenciar eleições? É isso mesmo! Va
 **🌟 Conclusão:**
 
 Amigos, é hora de refletir. A IA é incrível, mas também traz consigo responsabilidades enormes. Precisamos encontrar um equilíbrio entre inovação e ética para garantir um futuro melhor para todos. Então, da próxima vez que interagir com a inteligência artificial, lembre-se de perguntar: até onde é demais?
+
+<img src="ai2.webp" alt="Descrição da imagem" style="width: 100%; height: 400px;">
