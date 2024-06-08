@@ -23,7 +23,7 @@
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
 
-<a .github/assets/artigo.md title="View PDF now"> 📕Clique aqui para ler o artigo</a>
+<a href=".github/assets/artigo.md" title="View now">📕 Clique aqui para ler o artigo</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
